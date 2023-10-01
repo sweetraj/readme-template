@@ -1,6 +1,1 @@
-this is text 1
-I have completed my hsc in 2008.
-I was born in 2000.
-I have completed my bachelor my bsc in 2015
-I have completed my masters in 2001
-I have started full stack web development at 2019
+Everything is changed. Only i have written.
